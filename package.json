@@ -1,0 +1,10 @@
+{
+  "name": "funnelope.downloader",
+  "version": "0.0.0",
+  "description": "funnelope.downloader",
+  "main": "app.js",
+  "author": {
+    "name": "Namdascious",
+    "email": ""
+  }
+}
