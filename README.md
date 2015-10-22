@@ -1,5 +1,5 @@
 # funnelope.downloader
-It be download'n y'all!!! :D
+**It be download'n y'all!!! :D**
 
 funnelope.downloader is small program that creates a json store of video games
 
