@@ -9,6 +9,7 @@ I needed this for an experiment/fun project I was working on. Head on over to [f
 
 ## Requirements
 * [NodeJS](https://nodejs.org/)
+* [GiantBomb API Key](http://www.giantbomb.com/api/)
 
 ## Installation
 
