@@ -19,6 +19,8 @@ I needed this for an experiment/fun project I was working on. Head on over to [f
 npm install
 ```
 
+* Rename config-example.js to config.js and add your own Giantbomb API key to the "key" property within the file
+
 ## Running
 
 Run the application via node.js
